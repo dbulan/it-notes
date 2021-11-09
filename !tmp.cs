@@ -1,3 +1,7 @@
+git remote add origin https://github.com/dbulan/vue3typescript.git
+git branch -M master
+git push -u origin master
+
 # --- TODO
 Laravel Sanctum // Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs
 Single-page application hybrid technology like Inertia.js + Laravel
